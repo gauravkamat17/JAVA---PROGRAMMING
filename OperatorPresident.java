@@ -1,6 +1,6 @@
 class OperatorPresident{
     public static void main(String args[]){
-        // President And Associtivativity;
+        // President And Associativity;
         // int a =58*6-7/4;
         // int b =58/6-7*7;
         // System.out.println(a);
